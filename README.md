@@ -2,6 +2,7 @@
 Project on AB testing marketing campaigns to find the best campaign for the company to get more customers.
 
 Data Analysis Techniques used: Correlation Heatmap, Polynomial Regression, Visualization of Relationships (Pie Chart / Scatterplot), Trend Lines, Time Series Anaylsis
+
 Dataset found on: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset/data
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
