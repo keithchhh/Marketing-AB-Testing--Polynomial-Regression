@@ -1,11 +1,7 @@
 # Marketing-AB-Testing
 Full Notebook Link: https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/blob/main/%5BFINAL%20ANALYSIS%5D%20AB_Testing.ipynb
 
-Project on AB testing marketing campaigns to find the best campaign for the company to get more customers.
-
-Data Analysis Techniques used: Correlation Heatmap, Polynomial Regression, Visualization of Relationships (Pie Chart / Scatterplot), Trend Lines, Time Series Anaylsis
-
-Dataset found on: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset/data
+Objective: find the best marketing campaign for the company using A/B Testing using Correlation Heatmap, Polynomial Regression, Visualization of Relationships (Pie Chart / Scatterplot), Trend Lines, Time Series Anaylsis
 
 **Actionable Business Recommendations**
 
@@ -58,6 +54,8 @@ Ultimately, the optimal spend is calculated and summarized below:
 </div>
 
 **PACE Framework (Plan - Analyze - Construct - Execute)**
+
+Dataset found on: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset/data
 
 **Planning**
 To identify the strongest performing marketing campaign, this notebook will evaluate the campaigns through common marketing objectives:
