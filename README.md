@@ -15,8 +15,8 @@ Dataset found on: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-datas
 **Exploratory Data Analysis**
 
 <div align="center">
-<img width="429" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/6809aeea-5744-4298-9a39-fd64bf308f79">
-<img width="440" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/b343bde6-a958-4e70-a9fc-0860ed7db6b6">
+<img width="329" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/6809aeea-5744-4298-9a39-fd64bf308f79">
+<img width="340" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/b343bde6-a958-4e70-a9fc-0860ed7db6b6">
 </div>
 
 For control campaigns, there appears to be a stronger correlation between USD Spend and Impressions (0.26) / Reach (0.19). Thus the control campaign may be a good method for the client to reach larger audiences and increase their awareness by increasing their spend on the campaign. However, the negative correlation between impessions, website clicks and viewed content, suggest that the target audience may not be entirely relevant, as the number of impressions rise, the number of website clicks and viewed content falls.
@@ -26,8 +26,8 @@ The test campaign differs from the control campaign in that the amount of spend 
 **Identifying Trends in Variables: Scatter Plots**
 
 <div align="center">
-<img width="433" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/45a0ad23-0114-4e02-af44-d0f3e0feaec6">
-<img width="429" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/3d0e60c9-ba5f-4163-b83e-9e5ac7f9042b">
+<img width="333" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/45a0ad23-0114-4e02-af44-d0f3e0feaec6">
+<img width="329" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/3d0e60c9-ba5f-4163-b83e-9e5ac7f9042b">
 </div>
 
 The higher conversion rate from added to cart and purchases is evident in the test campaign when plotted on the scattterplot. However, it is worth noting that the control campaign has resulted in more users adding to cart, but not finishing the purchase, therefore it is recommended to increase the number of follow-up advertisements for the control campaign.
@@ -35,8 +35,8 @@ The higher conversion rate from added to cart and purchases is evident in the te
 Meanwhile, when comparing the total spend and impressions of each campaign, it can be seen that the assumption of a broader campaign for Control is seen, reaching a higher number of impressions (~40,000 more) than the Test Campaign.
 
 <div align="center">
-<img width="429" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/90c3a06d-8d00-479b-aad6-706eb902a7f9">
-<img width="432" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/575824fe-7396-4245-b05c-491d0684c6cb">
+<img width="329" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/90c3a06d-8d00-479b-aad6-706eb902a7f9">
+<img width="332" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/575824fe-7396-4245-b05c-491d0684c6cb">
 </div>
 
 However, as the number of impressions increases, Control campaigns exceeding 120,000 impressions begin receiving a lower engagement than the test campaign, receiving fewer views and suggesting a deterioration in audience quality, whilst the test campaign continuously engages relevant audiences due to its narrower specifications.
