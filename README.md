@@ -1,7 +1,7 @@
 # Marketing-AB-Testing
 Full Notebook Link: https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/blob/main/%5BFINAL%20ANALYSIS%5D%20AB_Testing.ipynb
 
-Objective: find the best marketing campaign for the company using A/B Testing using Correlation Heatmap, Polynomial Regression, Visualization of Relationships (Pie Chart / Scatterplot), Trend Lines, Time Series Anaylsis
+**Objective:** find the best marketing campaign for the company using A/B Testing using Correlation Heatmap, Polynomial Regression, Visualization of Relationships (Pie Chart / Scatterplot), Trend Lines, Time Series Anaylsis
 
 **Actionable Business Recommendations**
 
