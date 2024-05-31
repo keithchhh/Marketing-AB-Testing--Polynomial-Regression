@@ -15,8 +15,8 @@ Dataset found on: https://www.kaggle.com/datasets/amirmotefaker/ab-testing-datas
 **Exploratory Data Analysis**
 
 <div align="center">
-<img width="409" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/6809aeea-5744-4298-9a39-fd64bf308f79">
-<img width="420" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/b343bde6-a958-4e70-a9fc-0860ed7db6b6">
+<img width="419" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/6809aeea-5744-4298-9a39-fd64bf308f79">
+<img width="430" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/b343bde6-a958-4e70-a9fc-0860ed7db6b6">
 </div>
 
 For control campaigns, there appears to be a stronger correlation between USD Spend and Impressions (0.26) / Reach (0.19). Thus the control campaign may be a good method for the client to reach larger audiences and increase their awareness by increasing their spend on the campaign. However, the negative correlation between impessions, website clicks and viewed content, suggest that the target audience may not be entirely relevant, as the number of impressions rise, the number of website clicks and viewed content falls.
