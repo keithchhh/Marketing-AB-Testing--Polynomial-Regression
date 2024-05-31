@@ -26,8 +26,8 @@ The test campaign differs from the control campaign in that the amount of spend 
 **Identifying Trends in Variables: Scatter Plots**
 
 <div align="center">
-<img width="333" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/45a0ad23-0114-4e02-af44-d0f3e0feaec6">
-<img width="329" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/3d0e60c9-ba5f-4163-b83e-9e5ac7f9042b">
+<img width="383" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/45a0ad23-0114-4e02-af44-d0f3e0feaec6">
+<img width="379" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/3d0e60c9-ba5f-4163-b83e-9e5ac7f9042b">
 </div>
 
 The higher conversion rate from added to cart and purchases is evident in the test campaign when plotted on the scattterplot. However, it is worth noting that the control campaign has resulted in more users adding to cart, but not finishing the purchase, therefore it is recommended to increase the number of follow-up advertisements for the control campaign.
@@ -35,8 +35,8 @@ The higher conversion rate from added to cart and purchases is evident in the te
 Meanwhile, when comparing the total spend and impressions of each campaign, it can be seen that the assumption of a broader campaign for Control is seen, reaching a higher number of impressions (~40,000 more) than the Test Campaign.
 
 <div align="center">
-<img width="329" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/90c3a06d-8d00-479b-aad6-706eb902a7f9">
-<img width="332" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/575824fe-7396-4245-b05c-491d0684c6cb">
+<img width="379" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/90c3a06d-8d00-479b-aad6-706eb902a7f9">
+<img width="382" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/575824fe-7396-4245-b05c-491d0684c6cb">
 </div>
 
 However, as the number of impressions increases, Control campaigns exceeding 120,000 impressions begin receiving a lower engagement than the test campaign, receiving fewer views and suggesting a deterioration in audience quality, whilst the test campaign continuously engages relevant audiences due to its narrower specifications.
@@ -48,8 +48,8 @@ When considering overall spend and purchases however, there is no clear trend, s
 Optimal spend was calculated according to maximum impressions, purchases,and ROAS. Below is an example of optimal spend for maximum purchases.
 
 <div align="center">
-<img width="348" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/2d42e7c8-6d6b-4163-9467-d6e88856c24e">
-<img width="349" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/8e2514d9-3639-42f8-a476-1f8f3e5e5b6d">
+<img width="388" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/2d42e7c8-6d6b-4163-9467-d6e88856c24e">
+<img width="389" alt="image" src="https://github.com/keithchhh/Marketing-AB-Testing--Polynomial-Regression/assets/145700071/8e2514d9-3639-42f8-a476-1f8f3e5e5b6d">
 </div>
 
 Ultimately, the optimal spend is calculated and summarized below:
